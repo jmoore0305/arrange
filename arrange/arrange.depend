@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1663340654 source:/home/jmoore/GitRepo/arrange/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+	<assert.h>
+	<ctype.h>
+	<string.h>
+	"sort.h"
+
+1663253888 /home/jmoore/GitRepo/arrange/sort.h
+
